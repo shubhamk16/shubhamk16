@@ -5,8 +5,8 @@
 - 👯 I’m looking to collaborate on good ML and NLP projects
 - 🌍 I’m Interested to solve business usecases.
 - 📫 How to reach me: 
--                    Mail: kothawadeshubham15@gmail.com 
--                    LinkedIn:  https://www.linkedin.com/in/kothawade16/
+-  Mail: kothawadeshubham15@gmail.com 
+-  LinkedIn:  https://www.linkedin.com/in/kothawade16/
 - ❄ you can find my Data Science Blogs : https://medium.com/@kothawadeshubham15
 
 <!--
