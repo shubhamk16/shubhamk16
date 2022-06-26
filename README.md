@@ -1,7 +1,7 @@
 ### Hi, Shubham Kothawade here! 👋
 
 - 🔭 I’m currently working on Auto-ML(Machine Learning) Platform 
-- 🌱 I’m currently learning Data Science
+- 🌱 I’m currently learning/ working on Data Science
 - 👯 I’m looking to collaborate on good ML and NLP projects
 - 🌍 I’m Interested to solve business usecases.
 - 📫 How to reach me: https://www.linkedin.com/in/kothawade16/
